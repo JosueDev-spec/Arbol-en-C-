@@ -1,2 +1,2 @@
-# Arbol-en-C-
+# Arbol-en-C++
 POO arbol estructura de datos
